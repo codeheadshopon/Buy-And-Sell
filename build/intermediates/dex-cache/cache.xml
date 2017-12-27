@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/codehead/androidsourcegithub/Android-Intro-Slider-Screen/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="655aaaf2b610e736c34009cd3c64698068747ac4">
+        <dex dex="/home/codehead/androidsourcegithub/Android-Intro-Slider-Screen/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f4f0d07e0b1b1028a1f1d0f07941353e4dfcad5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/codehead/androidsourcegithub/Android-Intro-Slider-Screen/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/codehead/androidsourcegithub/Android-Intro-Slider-Screen/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e870825f483766febb0627fe86f4f477f27fc27b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/codehead/.android/build-cache/5cd4b83b3c1a69b8f9d7f54b9ad1034b0ee5fae3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c12397a785c3b1868fbebeffc9553457b27803f">
+        <dex dex="/home/codehead/androidsourcegithub/Android-Intro-Slider-Screen/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2339b3620a090be2e2e21b4002ef622e188baa40/classes.dex" />
+    </item>
+
+</items>
